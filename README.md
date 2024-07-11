@@ -32,6 +32,8 @@ sail up
 sail artisan key:generate
 sail artisan migrate
 sail artisan db:seed
+sail npm install
+sail npm run dev
 ```
 
 
